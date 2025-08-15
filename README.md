@@ -16,3 +16,5 @@ We solved this fault and go to phase 2.
 2025 深圳杯数学建模挑战赛 C题
 
 10 June, 2025 to 28 August, 2025 by HONG, YANG, WANG, YUAN
+
+*For more details, please visit [https://github.com/DrRedTheRed/Shenzhen_Cup](https://github.com/DrRedTheRed/Shenzhen_Cup).*
