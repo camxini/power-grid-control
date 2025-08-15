@@ -1,4 +1,4 @@
-# power-grid-control
+# Shenzhen cup 2025
 **Phase 1:** 2025 MCM, ZJU Problem A
 
 2025 浙江大学数学建模竞赛 A题
